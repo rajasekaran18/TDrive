@@ -1,5 +1,3 @@
 # TDrive
 
-
-Calculates the total distance travelled by a taxi on a given day.
-Uses Secondary sorting.
+Using mapreduce on hadoop calculates the total distance covered by a taxi/day.
