@@ -8,10 +8,14 @@
   <name>TDrive</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
+ <!--   <properties>
     <hadoop.version>2.3.0-mr1-cdh5.0.1</hadoop.version>
   </properties>
-
+-->
+ <properties>
+    <hadoop.version>2.3.0</hadoop.version>
+  </properties>
+  
   <build>
     <pluginManagement>
       <plugins>
@@ -71,6 +75,7 @@
     </dependency>
   </dependencies>
 
+<!-- 
   <repositories>
     <repository>
       <id>cloudera</id>
@@ -83,4 +88,6 @@
       </snapshots>
     </repository>
   </repositories>
+   -->
+   
 </project>
