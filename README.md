@@ -1,3 +1,3 @@
 # TDrive
 
-Using mapreduce calculate the total distance covered by a taxi/day.
+Using mapreduce calculate the total distance covered by taxi/day.
